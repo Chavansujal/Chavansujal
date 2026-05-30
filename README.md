@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications, full-stack projects, and problem-solving.<br><br>👯 I’m looking to collaborate on Open Source, AI, and Web Development projects.<br><br>🤝 I’m looking for help with System Design, Competitive Programming, and Cloud Technologies.<br><br>🌱 I’m currently learning DSA, React, Node.js, AI Agents, and Software Engineering.<br><br>💬 Ask me about Java, JavaScript, React, Git/GitHub, and Web Development.<br><br>⚡ Fun fact: My goal is to crack top tech companies like Google/Microsoft and eventually build my own startup.
+🔭 I’m currently working on AI-powered applications, full-stack projects, and problem-solving.<br>👯 I’m looking to collaborate on Open Source, AI, and Web Development projects.<br>🤝 I’m looking for help with System Design, Competitive Programming, and Cloud Technologies.<br>🌱 I’m currently learning DSA, React, Node.js, AI Agents, and Software Engineering.<br>💬 Ask me about Java, JavaScript, React, Git/GitHub, and Web Development.<br>⚡ Fun fact: My goal is to crack top tech companies like Google/Microsoft and eventually build my own startup.
 
 
 ## 🌐 Socials:
